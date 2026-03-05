@@ -1,0 +1,129 @@
+{
+  "source": "Paraphrased eBill FAQ for Copilot Agent",
+  "version": "1.0",
+  "faq": [
+    {
+      "question_variants": [
+        "Wer steht hinter eBill?",
+        "Wer betreibt eBill?",
+        "Wer ist verantwortlich für eBill?",
+        "Wer entwickelt eBill?"
+      ],
+      "answer": "eBill wird als Service von SIX bereitgestellt. SIX betreibt die technische Infrastruktur im Auftrag der Schweizer Banken. Damit stellt SIX sicher, dass Rechnungen sicher, zuverlässig und standardisiert im E-Banking verteilt werden können."
+    },
+    {
+      "question_variants": [
+        "Was ist eBill?",
+        "Was macht eBill?",
+        "Wofür ist eBill gedacht?",
+        "Was bedeutet eBill?"
+      ],
+      "answer": "eBill ist ein digitaler Rechnungsservice, mit dem Privatkundinnen und Privatkunden Rechnungen direkt in ihrem E-Banking empfangen, prüfen und bezahlen können – ohne manuelle Eingabe von Zahlungsdaten. Die Rechnung erscheint fertig ausgefüllt im Onlinebanking und kann mit einem Klick freigegeben werden."
+    },
+    {
+      "question_variants": [
+        "Kostet eBill etwas?",
+        "Wie viel kostet eBill?",
+        "Ist eBill kostenlos?",
+        "Muss ich für eBill bezahlen?"
+      ],
+      "answer": "Für Privatpersonen ist eBill in der Regel kostenlos. Die Nutzung richtet sich nach den Konditionen der jeweiligen Bank, jedoch verlangen die meisten Banken keine Gebühren für den Empfang digitaler Rechnungen."
+    },
+    {
+      "question_variants": [
+        "Welche Informationen enthält eine eBill-Rechnung?",
+        "Welche Daten bekomme ich mit eBill?",
+        "Was steht in einer eBill?",
+        "Welche Angaben sind in eBill enthalten?"
+      ],
+      "answer": "Eine eBill-Rechnung enthält alle relevanten Zahlungsinformationen wie Rechnungssteller, Betrag, Fälligkeitsdatum und in den meisten Fällen ein beigefügtes PDF der Originalrechnung. Zusätzlich werden die Zahlungsfelder automatisch vorausgefüllt."
+    },
+    {
+      "question_variants": [
+        "Wie funktioniert eBill?",
+        "Wie läuft eBill ab?",
+        "Wie werden Rechnungen mit eBill empfangen?",
+        "Wie funktioniert der eBill Prozess?"
+      ],
+      "answer": "Rechnungssteller senden ihre digitale Rechnung direkt an die Bank der Kundin oder des Kunden. Die Rechnung erscheint dann im E-Banking, wo sie überprüft und mit einem Klick freigegeben werden kann. Die Daten sind bereits korrekt ausgefüllt, wodurch Fehler vermieden werden. Nach der Freigabe wird die Zahlung automatisch ausgeführt."
+    },
+    {
+      "question_variants": [
+        "Was ist der Unterschied zwischen eBill und Lastschrift?",
+        "Wie unterscheidet sich eBill von LSV?",
+        "Warum eBill statt Lastschrift?",
+        "Was ist besser: eBill oder Lastschrift?"
+      ],
+      "answer": "Bei eBill behält die empfangende Person die volle Kontrolle: Jede Rechnung muss manuell oder automatisch freigegeben werden. Bei einer Lastschrift (LSV) bucht der Rechnungssteller den Betrag automatisch ab. eBill bietet daher mehr Transparenz und Kontrolle."
+    },
+    {
+      "question_variants": [
+        "Was ist der Unterschied zwischen eBill und E-Mail-Rechnung?",
+        "Wie unterscheidet sich eBill von einer Rechnung per Mail?",
+        "Warum eBill statt E-Mail?"
+      ],
+      "answer": "Bei eBill werden Rechnungen direkt und sicher ins E-Banking zugestellt und können ohne manuelle Eingabe bezahlt werden. Eine E-Mail-Rechnung erfordert das manuelle Abtippen von Beträgen, IBAN und Referenznummern, was fehleranfällig ist."
+    },
+    {
+      "question_variants": [
+        "Wie registriere ich mich für eBill?",
+        "Wie melde ich mich bei eBill an?",
+        "Wie aktiviere ich eBill?",
+        "Wie kann ich eBill einschalten?"
+      ],
+      "answer": "Die Registrierung erfolgt im E-Banking. Dort wählt man eBill aus und folgt den angezeigten Schritten. Die Aktivierung dauert in der Regel wenige Minuten und benötigt lediglich Zugriff auf das eigene Onlinebanking."
+    },
+    {
+      "question_variants": [
+        "Was tun, wenn die Registrierung nicht funktioniert?",
+        "Ich kann eBill nicht aktivieren – was nun?",
+        "Registrierung eBill fehlgeschlagen",
+        "Warum kann ich eBill nicht einschalten?"
+      ],
+      "answer": "Wenn die Aktivierung nicht funktioniert, sollte der Support der eigenen Bank kontaktiert werden. Oft liegt das Problem an Sicherheitseinstellungen oder fehlenden Berechtigungen im E-Banking."
+    },
+    {
+      "question_variants": [
+        "Was ist ein Aktivierungscode?",
+        "Wofür brauche ich den Aktivierungscode?",
+        "Warum bekomme ich einen Aktivierungscode?"
+      ],
+      "answer": "Beim erstmaligen Aktivieren von eBill wird ein Aktivierungscode benötigt, um sicherzustellen, dass die Anmeldung tatsächlich von der berechtigten Person durchgeführt wird. Der Code wird üblicherweise per E-Mail oder direkt im E-Banking bereitgestellt."
+    },
+    {
+      "question_variants": [
+        "Wie finde ich Rechnungssteller bei eBill?",
+        "Wie füge ich Rechnungssteller hinzu?",
+        "Wie kann ich Firmen zu eBill hinzufügen?",
+        "Wie suche ich Rechnungssteller im eBill Portal?"
+      ],
+      "answer": "Im eBill-Portal oder direkt im E-Banking können Rechnungssteller über eine Suchfunktion gefunden und hinzugefügt werden. Viele Rechnungssteller weisen auch aktiv darauf hin, dass sie eBill anbieten."
+    },
+    {
+      "question_variants": [
+        "Kann man mehrere Rechnungen gleichzeitig freigeben?",
+        "Wie funktioniert die Sammelfreigabe?",
+        "Kann ich mehrere eBills auf einmal bezahlen?"
+      ],
+      "answer": "Ja, viele Banken bieten eine Sammelfreigabe. Damit können mehrere eBill-Rechnungen gleichzeitig überprüft und freigegeben werden. Dies spart Zeit und vereinfacht die Verwaltung."
+    },
+    {
+      "question_variants": [
+        "Werden Rechnungen automatisch bezahlt?",
+        "Kann eBill automatisch freigeben?",
+        "Gibt es eine automatische Zahlung?",
+        "Kann man eBill automatisieren?"
+      ],
+      "answer": "Standardmässig werden eBill-Rechnungen nicht automatisch bezahlt. Es ist jedoch möglich, automatische Freigaben für ausgewählte Rechnungssteller zu aktivieren. Die Details hängen von der jeweiligen Bank ab."
+    },
+    {
+      "question_variants": [
+        "Kann man Rechnungen mit anderen Personen teilen?",
+        "Gibt es eBill Sharing?",
+        "Kann eine andere Person meine eBills sehen?",
+        "Kann ich eBill mit jemandem teilen?"
+      ],
+      "answer": "Ja, viele Banken unterstützen eBill Sharing. Damit können Rechnungen zwischen mehreren registrierten eBill-Nutzern geteilt werden, beispielsweise innerhalb von Haushalten."
+    }
+  ]
+}
